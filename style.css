@@ -1,0 +1,23 @@
+/* *{
+margin: 0;
+padding: 0;
+border: 10px solid #5a5ae5;
+box-sizing: border-box;
+}
+body{
+background-color: antiquewhite;
+min-height: 100vh;
+background-image: url(laptop.jpg);
+} */
+
+.box{
+    border: 3px solid #000;
+    margin: 30px;
+    padding: 25px;
+    height: 50%;
+    width: 20%;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    min-height: 50%;
+}
